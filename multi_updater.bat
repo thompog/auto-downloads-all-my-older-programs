@@ -71,4 +71,5 @@ for /f "usebackq delims=" %%L in ("%TEMP_MANIFEST%") do (
 echo [%date% %time%] Updater finished. >> "%LOG%"
 echo Done. See log: %LOG%
 pause
+
 endlocal
