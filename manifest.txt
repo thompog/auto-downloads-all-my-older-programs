@@ -1,3 +1,4 @@
-https://raw.githubusercontent.com/thompog/auto-downloads-all-my-older-programs/main/latest.bat|latest.bat|
+https://raw.githubusercontent.com/thompog/auto-downloads-all-my-older-programs/refs/heads/main/latest2.bat|latest.bat|
 https://raw.githubusercontent.com/thompog/auto-downloads-all-my-older-programs/main/tool1.bat|tool1.bat|
+
 https://raw.githubusercontent.com/thompog/auto-downloads-all-my-older-programs/main/tool2.bat|tool2.bat|
